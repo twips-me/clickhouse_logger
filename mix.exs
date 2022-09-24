@@ -44,8 +44,7 @@ defmodule ClickhouseLogger.MixProject do
 
   defp description do
     """
-    The Elixir [Logger](https://hexdocs.pm/logger/Logger.html) backend that sends logs to
-    [Clickhouse](https://clickhouse.com) server.
+    The Elixir Logger backend that sends logs to Clickhouse server.
     """
   end
 
