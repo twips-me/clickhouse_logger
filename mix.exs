@@ -52,7 +52,7 @@ defmodule ClickhouseLogger.MixProject do
   defp package do
     [
       name: "clickhouse_logger",
-      files: ~w[lib .formatter.exs mix.exs README* LICENSE* CHANGELOG*],
+      files: ~w[lib .formatter.exs mix.exs README* LICENSE*],
       licenses: ["Apache-2.0"],
       links: %{"GitHub" => "https://github.com/twips-me/clickhouse_logger"},
     ]
